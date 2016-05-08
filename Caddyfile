@@ -1,0 +1,6 @@
+localhost:80 {
+	root /srv
+	gzip
+	ext .html .htm
+	index index.html
+}
